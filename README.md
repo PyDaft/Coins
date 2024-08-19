@@ -1,8 +1,11 @@
+<H1> Capstone Project: Coins Image Processing & Summation Problem </H1>
+<br>
+<H2> About the Project </H2>
 
-<H1> About the Project </H1>
-
-
-
+<h3>
+  1. Numpy - for image processing and identifying coins basis their brightness
+  2. OpenCV - for finding the coordinates and 
+</h3>
 This program uses OpenCV to process the image.
 
 1. The image is converted to grayscale and a Gaussian blur is added for easier processing.
