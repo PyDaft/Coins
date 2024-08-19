@@ -1,11 +1,13 @@
 <H1> Capstone Project: Coins Image Processing & Summation Problem </H1>
 <br>
 <H2> About the Project </H2>
+The image of coins.jpg is a collection of Britsih Pennies of different denomination. The idea is to identify different circular (omit the one with polygon shape) and add up the denominations and print the final value of all the coins on the processed image.
 
-<h3>
+<br><br>
+<h4>
   1. Numpy - for image processing and identifying coins basis their brightness
   2. OpenCV - for finding the coordinates of different circles and printing the respective values of the coins on the image itself
-</h3>
+</h4>
 
 <h2> How I approached the problem</h2>
 
