@@ -1,7 +1,7 @@
 <H1> Capstone Project: Coins Image Processing & Summation Problem </H1>
 <br>
 <H2> About the Project </H2>
-------------------------------------------------------------------
+
 The image of coins.jpg is a collection of Britsih Pennies of different denomination. The idea is to identify different circular (omit the one with polygon shape) and add up the denominations and print the final value of all the coins on the processed image.
 <br>
 <h4>
@@ -10,7 +10,7 @@ The image of coins.jpg is a collection of Britsih Pennies of different denominat
 </h4>
 <br>
 <h2> How I approached the problem</h2>
-------------------------------------------------------------------
+
 <br>
 1. This code uses OpenCV to process the image.
 2. The image is converted to grayscale and a Gaussian blur is added for easier processing.
